@@ -4,7 +4,8 @@ repo_url: https://github.com/Machibito22/PokeDevKit/tree/docs
 repo_name: Github
 site_description: PokéDev Kit Documentation
 site_author: Guillermo Brito
-site_favicon: /img/favicon.ico
+repo_url: https://github.com/Machibito22/PokeDevKit/tree/docs
+edit_uri: blob/main/docs/
 copyright: The content of this documentation is licensed under CC-BY-SA 4.0
 google_analytics: ['G-0D5ECZB61K', 'pokedevkit.netlify.app']
 remote_branch: gh-pages
